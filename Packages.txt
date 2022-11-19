@@ -1,0 +1,25 @@
+axios
+npm install react-axios
+
+react router dom
+npm install react-router-dom
+
+
+material ui, mui icons
+npm i @mui/material
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+
+
+react redux (tookit/thunk)
+npm install react-redux
+(ToolkiT)
+npm install @reduxjs/toolkit
+(Thunk)
+npm i redux-thunk
+
+
+firebase (Nodejs)
+npm install (globaly)?.......................
+firebase init (for deploying)
+
